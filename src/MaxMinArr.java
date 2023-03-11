@@ -1,4 +1,4 @@
-public class Main {
+public class MaxMinArr {
     public static void main(String[] args) {
         int[] arr = {0, 5, 10, 15, 20, 25, 35, 65, 120, -4, -125, 211};
         int max = findMax(arr);

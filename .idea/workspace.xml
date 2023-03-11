@@ -1,47 +1,150 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="4a7913cf-1e45-4388-854c-34b15bbf940d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_26.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lessons/lesson01_06_03_2023/BigDog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lessons/lesson01_06_03_2023/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lessons/lesson01_06_03_2023/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lessons/lesson01_06_03_2023/DogAndCatDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lessons/lesson01_06_03_2023/students/Aspirant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lessons/lesson01_06_03_2023/students/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lessons/lesson01_06_03_2023/students/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lessons/lesson01_06_03_2023/students/University.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practiceJava/lesson01/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practiceJava/lesson02/Superhero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practiceJava/lesson02/newGame/Battle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practiceJava/lesson02/newGame/Superhero.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaPRO.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaPRO.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MaxMinArr.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
   <component name="ProjectId" id="2Mbvu2J33FiLWVQeJU1PjxALc2S" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Volumes/GoogleDrive/Мой диск/Telran/Java/JavaPRO&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
+}</component>
+  <component name="RunManager" selected="Application.Algorithms">
+    <configuration name="Algorithms" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Algorithms" />
       <module name="JavaPRO" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Battle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practiceJava.lesson02.Battle" />
+      <module name="JavaPRO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practiceJava.lesson02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Superhero" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practiceJava.lesson02.Superhero" />
+      <module name="JavaPRO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practiceJava.lesson02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SuperheroBattle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practiceJava.lesson02.SuperheroBattle" />
+      <module name="JavaPRO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practiceJava.lesson02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="practiceJava.lesson02.newGame.Battle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practiceJava.lesson02.newGame.Battle" />
+      <module name="JavaPRO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practiceJava.lesson02.newGame.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Algorithms" />
+        <item itemvalue="Application.practiceJava.lesson02.newGame.Battle" />
+        <item itemvalue="Application.Superhero" />
+        <item itemvalue="Application.Battle" />
+        <item itemvalue="Application.SuperheroBattle" />
       </list>
     </recent_temporary>
   </component>
@@ -53,7 +156,21 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1678049317498</updated>
-      <workItem from="1678049319399" duration="263000" />
+      <workItem from="1678049319399" duration="1472000" />
+      <workItem from="1678050966841" duration="458000" />
+      <workItem from="1678091297802" duration="7430000" />
+      <workItem from="1678128705531" duration="30000" />
+      <workItem from="1678135870369" duration="2306000" />
+      <workItem from="1678180982160" duration="4770000" />
+      <workItem from="1678204550251" duration="18000" />
+      <workItem from="1678296567031" duration="1072000" />
+      <workItem from="1678298046108" duration="757000" />
+      <workItem from="1678298887368" duration="925000" />
+      <workItem from="1678299830832" duration="975000" />
+      <workItem from="1678300825756" duration="1673000" />
+      <workItem from="1678400441290" duration="106000" />
+      <workItem from="1678437227881" duration="10900000" />
+      <workItem from="1678457690019" duration="15000" />
     </task>
     <servers />
   </component>
